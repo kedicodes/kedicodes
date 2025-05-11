@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kedicodes
-- 👀 I’m interested in User Research, Human AI Interaction and Software Development.
+- 👀 I’m interested in User Research, User Interface Engineering and Software Development.
 - 🌱 I’m currently studying MSc Human Computer Interaction
 
 
